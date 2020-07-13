@@ -1,0 +1,197 @@
+SKU,SKU_NEW,ProductVolume,Package,Brand,Category,Status
+"apps_0,5_btl_5,5%_cherry_sdr","apps_0,5_btl_5,5%_cherry_sdr",0.5,btl,Cидр Apps,САН,діюче скю
+"apps_0,5_btl_5,5%_grapefruit_sdr","apps_0,5_btl_5,5%_grapefruit_sdr",0.5,btl,Cидр Apps,САН,діюче скю
+"apps_0,5_btl_5,5%_original_sdr","apps_0,5_btl_5,5%_original_sdr",0.5,btl,Cидр Apps,САН,діюче скю
+"apps_0,5_can_5,5%_grapefruit_sdr","apps_0,5_can_5,5%_grapefruit_sdr",0.5,can,Cидр Apps,САН,на вивід
+"apps_1_pet_5,5%_original_sdr","apps_1_pet_5,5%_original_sdr",1.0,pet,Cидр Apps,САН,діюче скю
+"apps_30_keg_5,5%_cherry_sdr","apps_30_keg_5,5%_cherry_sdr",30.0,keg,Cидр Apps кеги,САН,діюче скю
+"apps_30_keg_5,5%_cranberry_sdr","apps_30_keg_5,5%_cranberry_sdr",30.0,keg,Cидр Apps кеги,САН,старе скю
+"apps_30_keg_5,5%_fragaria_sdr","apps_30_keg_5,5%_fragaria_sdr",30.0,keg,Cидр Apps кеги,САН,"новинка, або ротація"
+"apps_30_keg_5,5%_frizzante bellini_sdr","apps_30_keg_5,5%_frizzante bellini_sdr",30.0,keg,Cидр Apps кеги,САН,"новинка, або ротація"
+"apps_30_keg_5,5%_happy morning_sdr","apps_30_keg_5,5%_happy morning_sdr",30.0,keg,Cидр Apps кеги,САН,"новинка, або ротація"
+"apps_30_keg_5,5%_original_sdr","apps_30_keg_5,5%_original_sdr",30.0,keg,Cидр Apps кеги,САН,діюче скю
+"apps_30_keg_8,0%_rossіnі aperіtіvo_sdr","apps_30_keg_8,0%_rossіnі aperіtіvo_sdr",30.0,keg,Cидр Apps міцний кеги,САН,"новинка, або ротація"
+"apps_50_keg_5,5%_cherry_sdr","apps_50_keg_5,5%_cherry_sdr",50.0,keg,Cидр Apps кеги,САН,діюче скю
+"apps_50_keg_5,5%_cranberry_sdr","apps_50_keg_5,5%_cranberry_sdr",50.0,keg,Cидр Apps кеги,САН,"новинка, або ротація"
+"apps_50_keg_5,5%_fragaria_sdr","apps_50_keg_5,5%_fragaria_sdr",50.0,keg,Cидр Apps кеги,САН,"новинка, або ротація"
+"apps_50_keg_5,5%_frizzante bellini_sdr","apps_50_keg_5,5%_frizzante bellini_sdr",50.0,keg,Cидр Apps кеги,САН,"новинка, або ротація"
+"apps_50_keg_5,5%_grapefruit_sdr","apps_50_keg_5,5%_grapefruit_sdr",50.0,keg,Cидр Apps кеги,САН,"новинка, або ротація"
+"apps_50_keg_5,5%_happy morning_sdr","apps_50_keg_5,5%_happy morning_sdr",50.0,keg,Cидр Apps кеги,САН,"новинка, або ротація"
+"apps_50_keg_5,5%_original_sdr","apps_50_keg_5,5%_original_sdr",50.0,keg,Cидр Apps кеги,САН,діюче скю
+"apps_50_keg_8,0%_rossіnі aperіtіvo_sdr","apps_50_keg_8,0%_rossіnі aperіtіvo_sdr",50.0,keg,Cидр Apps міцний кеги,САН,"новинка, або ротація"
+"beertail_30_keg_4,8%_amber_ber","beertail_30_keg_4,8%_amber_ber",30.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"beertail_30_keg_5,0%_rum&cherry_ber","beertail_30_keg_5,0%_rum&cherry_ber",30.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"beertail_30_keg_5,0%_sex on the beach_ber","beertail_30_keg_5,0%_sex on the beach_ber",30.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"beertail_30_keg_5,0%_smokie island_ber","beertail_30_keg_5,0%_smokie island_ber",30.0,keg,Пиво Beertail кеги,САН,діюче скю
+"beertail_50_keg_4,8%_amber_ber","beertail_50_keg_4,8%_amber_ber",50.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"beertail_50_keg_5,0%_aperol spritz_ber","beertail_50_keg_5,0%_aperol spritz_ber",50.0,keg,Пиво Beertail кеги,САН,діюче скю
+"beertail_50_keg_5,0%_plum wine_san","beertail_50_keg_5,0%_plum wine_san",50.0,keg,Пиво Beertail кеги,САН,діюче скю
+"beertail_50_keg_5,0%_rum&cherry_ber","beertail_50_keg_5,0%_rum&cherry_ber",50.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"beertail_50_keg_5,0%_sex on the beach_ber","beertail_50_keg_5,0%_sex on the beach_ber",50.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"beertail_50_keg_5,0%_smokie island_ber","beertail_50_keg_5,0%_smokie island_ber",50.0,keg,Пиво Beertail кеги,САН,діюче скю
+"diablo_0,5_can_8,0%_black alco energy_ber","diablo_0,5_can_8,0%_black alco energy_ber",0.5,can,DIABLO,САН,діюче скю
+"diablo_0,5_can_8,0%_extra  alco energy_ber","diablo_0,5_can_8,0%_extra  alco energy_ber",0.5,can,DIABLO,САН,діюче скю
+"eat me_0,03_fp_apricot&date&apple&raisins_snk","eat me_0,03_fp_apricot&date&apple&raisins_snk",0.03,fp,EatMe,СНЕК,діюче скю
+"eat me_0,03_fp_oat flakes&cranberries$peanuts_snk","eat me_0,03_fp_oat flakes&cranberries$peanuts_snk",0.03,fp,EatMe,СНЕК,діюче скю
+"eat me_0,03_fp_apricot&pineapple asorti_snk","eat me_0,03_fp_apricot&pineapple asorti_snk",0.03,fp,EatMe,СНЕК,діюче скю
+"eat me_0,03_fp_pineapple&carrots&nuts_snk","eat me_0,03_fp_pineapple&carrots&nuts_snk",0.03,fp,EatMe,СНЕК,на вивід
+"eat me_0,03_fp_raisins&apples&nuts&dark_chocolate_snk","eat me_0,03_fp_raisins&apples&nuts&dark_chocolate_snk",0.03,fp,EatMe,СНЕК,діюче скю
+"beertail_30_keg_5,0%_blueberry glade_ber","beertail_30_keg_5,0%_blueberry glade_ber",30.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"beertail_30_keg_5,0%_blueberry muffin_ber","beertail_30_keg_5,0%_blueberry muffin_ber",30.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"beertail_30_keg_5,0%_cheeky peach_ber","beertail_30_keg_5,0%_cheeky peach_ber",30.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"beertail_30_keg_5,0%_cosmopolitan_ber","beertail_30_keg_5,0%_cosmopolitan_ber",30.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"beertail_30_keg_5,0%_daiquiri_ber","beertail_30_keg_5,0%_daiquiri_ber",30.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"beertail_30_keg_5,0%_lemon tart_ber","beertail_30_keg_5,0%_lemon tart_ber",30.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"beertail_30_keg_5,0%_mint watermelon_ber","beertail_30_keg_5,0%_mint watermelon_ber",30.0,keg,Пиво Beertail кеги,САН,діюче скю
+"beertail_30_keg_5,0%_tonic_ber","beertail_30_keg_5,0%_tonic_ber",30.0,keg,Пиво Beertail кеги,САН,діюче скю
+"beertail_50_keg_5,0%_blueberry glade_ber","beertail_50_keg_5,0%_blueberry glade_ber",50.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"beertail_50_keg_5,0%_blueberry muffin_ber","beertail_50_keg_5,0%_blueberry muffin_ber",50.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"beertail_50_keg_5,0%_peach_ber","beertail_50_keg_5,0%_peach_ber",50.0,keg,Пиво Beertail кеги,САН,діюче скю
+"beertail_50_keg_5,0%_cosmopolitan_ber","beertail_50_keg_5,0%_cosmopolitan_ber",50.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"beertail_50_keg_5,0%_daiquiri_ber","beertail_50_keg_5,0%_daiquiri_ber",50.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"beertail_50_keg_5,0%_lemon tart_ber","beertail_50_keg_5,0%_lemon tart_ber",50.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"beertail_50_keg_5,0%_mint watermelon_ber","beertail_50_keg_5,0%_mint watermelon_ber",50.0,keg,Пиво Beertail кеги,САН,діюче скю
+"beertail_50_keg_5,0%_tonic_ber","beertail_50_keg_5,0%_tonic_ber",50.0,keg,Пиво Beertail кеги,САН,діюче скю
+"beertail_50_keg_5,0%_vanila&chocolate_ber","beertail_50_keg_5,0%_vanila&chocolate_ber",50.0,keg,Пиво Beertail кеги,САН,діюче скю
+"green energy_0,25_can_original_nrg","green energy_0,25_can_original_nrg",0.25,can,Green Energy,НРДж,діюче скю
+"green energy_0,5_pet_original_nrg","green energy_0,5_pet_original_nrg",0.5,pet,Green Energy,НРДж,діюче скю
+green energy_1_pet_original_nrg,green energy_1_pet_original_nrg,1.0,pet,Green Energy,НРДж,діюче скю
+"kings bridge_0,33_btl_7,0%_grapefruit_san","kings bridge_0,33_btl_7,0%_grapefruit_san",0.33,btl,KING'S BRIDGE,САН,діюче скю
+"kings bridge_0,45_can_7,0%_brandy cola_san","kings bridge_0,45_can_7,0%_brandy cola_san",0.45,can,KING'S BRIDGE,САН,діюче скю
+"kings bridge_0,45_can_7,0%_grapefruit_san","kings bridge_0,45_can_7,0%_grapefruit_san",0.45,can,KING'S BRIDGE,САН,діюче скю
+"kings bridge_0,45_can_7,0%_tonic_san","kings bridge_0,45_can_7,0%_tonic_san",0.45,can,KING'S BRIDGE,САН,діюче скю
+"kings bridge_0,5_can_7,0%_grapefruit_san","kings bridge_0,45_can_7,0%_grapefruit_san",0.45,can,KING'S BRIDGE,САН,діюче скю
+"kings bridge_0,5_can_7,0%_tonic_san","kings bridge_0,45_can_7,0%_tonic_san",0.45,can,KING'S BRIDGE,САН,діюче скю
+"non stop_0,25_can_original_nrg","non stop_0,25_can_original_nrg",0.25,can,NON - STOP,НРДж,діюче скю
+"non stop_0,5_can_fresh(jungle)_nrg","non stop_0,5_can_fresh(jungle)_nrg",0.5,can,NON - STOP,НРДж,діюче скю
+"non stop_0,5_can_urban_nrg","non stop_0,5_can_urban_nrg",0.5,can,NON - STOP,НРДж,діюче скю
+"non stop_0,5_can_original_nrg","non stop_0,5_can_original_nrg",0.5,can,NON - STOP,НРДж,діюче скю
+"non stop_0,75_pet_original_nrg","non stop_0,75_pet_original_nrg",0.75,pet,NON - STOP,НРДж,діюче скю
+"pit bull_0,25_can_x_nrg","pit bull_0,25_can_x_nrg",0.25,can,Pit Bull,НРДж,діюче скю
+"pit bull_0,5_pet_original_nrg","pit bull_0,5_pet_original_nrg",0.5,pet,Pit Bull,НРДж,діюче скю
+pit bull_1_pet_batle_nrg,pit bull_1_pet_batle_nrg,1.0,pet,Pit Bull,НРДж,старе скю
+pit bull_1_pet_original_nrg,pit bull_1_pet_original_nrg,1.0,pet,Pit Bull,НРДж,діюче скю
+"pryrodne dzherelo_0,5_pet_carbonated_ban","pryrodne dzherelo_0,5_pet_carbonated_ban",0.5,pet,Природне джерело,БАН,діюче скю
+"pryrodne dzherelo_0,5_pet_non-carbonated_ban","pryrodne dzherelo_0,5_pet_non-carbonated_ban",0.5,pet,Природне джерело,БАН,діюче скю
+"pryrodne dzherelo_1,5_pet_carbonated_ban","pryrodne dzherelo_1,5_pet_carbonated_ban",1.5,pet,Природне джерело,БАН,діюче скю
+"pryrodne dzherelo_1,5_pet_non-carbonated_ban","pryrodne dzherelo_1,5_pet_non-carbonated_ban",1.5,pet,Природне джерело,БАН,діюче скю
+pryrodne dzherelo_1_pet_carbonated_ban,pryrodne dzherelo_1_pet_carbonated_ban,1.0,pet,Природне джерело,БАН,діюче скю
+pryrodne dzherelo_1_pet_non-carbonated_ban,pryrodne dzherelo_1_pet_non-carbonated_ban,1.0,pet,Природне джерело,БАН,діюче скю
+pryrodne dzherelo_6_pet_non-carbonated_ban,pryrodne dzherelo_6_pet_non-carbonated_ban,6.0,pet,Природне джерело,БАН,діюче скю
+"revo_0,5_can_8,5%_cherry_san","revo_0,5_can_8,5%_cherry_san",0.5,can,REVO_Alco_NRG,САН,діюче скю
+"revo_0,5_can_8,5%_original_san","revo_0,5_can_8,5%_original_san",0.5,can,REVO_Alco_NRG,САН,діюче скю
+"revo_0,5_can_8,5%_limited_san","revo_0,5_can_8,5%_limited_san",0.5,can,REVO_Alco_NRG,САН,ротація
+"shake_0,33_btl_7,0%_bora bora_san","shake_0,33_btl_7,0%_bora bora_san",0.33,btl,SHAKE,САН,діюче скю
+"shake_0,33_btl_7,0%_daiquiri_san","shake_0,33_btl_7,0%_daiquiri_san",0.33,btl,SHAKE,САН,діюче скю
+"shake_0,33_btl_7,0%_sex on the beach_san","shake_0,33_btl_7,0%_sex on the beach_san",0.33,btl,SHAKE,САН,діюче скю
+"shake_0,33_btl_7,0%_tequila sombrero_san","shake_0,33_btl_7,0%_tequila sombrero_san",0.33,btl,SHAKE,САН,діюче скю
+"shake_0,33_btl_7,0%_ice baby_san","shake_0,33_btl_7,0%_ice baby_san",0.33,btl,SHAKE,САН,діюче скю
+"shake_0,33_btl_7,0%_basil beauty_san","shake_0,33_btl_7,0%_basil beauty_san",0.33,btl,SHAKE,САН,на вивід
+"shake_0,33_btl_7,0%_muse_san","shake_0,33_btl_7,0%_muse_san",0.33,btl,SHAKE,САН,діюче скю
+"shake_0,5_can_7,0%_bora bora_san","shake_0,5_can_7,0%_bora bora_san",0.5,can,SHAKE,САН,діюче скю
+"shake_0,5_can_7,0%_sex on the beach_san","shake_0,5_can_7,0%_sex on the beach_san",0.5,can,SHAKE,САН,діюче скю
+"shake_0,5_can_7,0%_ice baby_san","shake_0,5_can_7,0%_ice baby_san",0.5,can,SHAKE,САН,діюче скю
+"why not_0,5_btl_4,8%_wild lemon_ber","why not_0,5_btl_4,8%_wild lemon_ber",0.5,btl,Why Not,САН,діюче скю
+"why not_0,5_btl_5,0%_smokie island_ber","why not_0,5_btl_5,0%_smokie island_ber",0.5,btl,Why Not,САН,діюче скю
+"why not_0,5_can_4,8%_wild lemon_ber","why not_0,5_can_4,8%_wild lemon_ber",0.5,can,Why Not,САН,діюче скю
+"why not_0,5_can_5,0%_smokie island_ber","why not_0,5_can_5,0%_smokie island_ber",0.5,can,Why Not,САН,діюче скю
+lymonadiya_50_keg_orange_ban,lymonadiya_50_keg_orange_ban,,,,,діюче скю
+lymonadiya_50_keg_grapefruit_ban,lymonadiya_50_keg_grapefruit_ban,,,,,діюче скю
+"non stop_0,5_can_night_nrg","non stop_0,5_can_urban_nrg",0.5,can,NON - STOP,НРДж,діюче скю
+"non stop_0,5_can_day_nrg","non stop_0,5_can_fresh(jungle)_nrg",0.5,can,NON - STOP,НРДж,діюче скю
+"apps_30_keg_5,5%_original_san","apps_30_keg_5,5%_original_sdr",30.0,keg,Cидр Apps кеги,САН,діюче скю
+"apps_0,5_btl_5,5%_cherry_san","apps_0,5_btl_5,5%_cherry_sdr",0.5,btl,Cидр Apps,САН,діюче скю
+"apps_30_keg_5,5%_cherry_san","apps_30_keg_5,5%_cherry_sdr",30.0,keg,Cидр Apps кеги,САН,діюче скю
+"kings bridge_0,5_can_4,5%_grapefruit_san","kings bridge_0,45_can_7,0%_grapefruit_san",0.45,can,KING'S BRIDGE,САН,діюче скю
+"shake_0,33_btl_9,0%_daiquiri_san","shake_0,33_btl_7,0%_daiquiri_san",0.33,btl,SHAKE,САН,діюче скю
+"apps_50_keg_5,5%_happy morning_san","apps_50_keg_5,5%_happy morning_sdr",50.0,keg,Cидр Apps кеги,САН,"новинка, або ротація"
+"shake_0,33_btl_5,7%_bora bora_san","shake_0,33_btl_7,0%_bora bora_san",0.33,btl,SHAKE,САН,діюче скю
+"shake_0,33_btl_9,0%_bora bora_san","shake_0,33_btl_7,0%_bora bora_san",0.33,btl,SHAKE,САН,діюче скю
+"shake_0,33_btl_8,6%_daiquiri_san","shake_0,33_btl_7,0%_daiquiri_san",0.33,btl,SHAKE,САН,діюче скю
+"shake_0,5_can_8,6%_sex on the beach_san","shake_0,5_can_7,0%_sex on the beach_san",0.5,can,SHAKE,САН,діюче скю
+"why not_0,5_btl_4,8%_carte blanche_san","why not_0,5_btl_4,8%_wild lemon_ber",0.5,btl,Why Not,САН,діюче скю
+"shake_0,33_btl_8,6%_bora bora_san","shake_0,33_btl_7,0%_bora bora_san",0.33,btl,SHAKE,САН,діюче скю
+"shake_0,33_btl_4,5%_sex on the beach_san","shake_0,33_btl_7,0%_sex on the beach_san",0.33,btl,SHAKE,САН,діюче скю
+"shake_0,5_can_4,5%_bora bora_san","shake_0,5_can_7,0%_bora bora_san",0.5,can,SHAKE,САН,діюче скю
+"kings bridge_0,5_can_4,5%_tonic_san","kings bridge_0,45_can_7,0%_tonic_san",0.45,can,KING'S BRIDGE,САН,діюче скю
+"shake_0,5_can_9,0%_bora bora_san","shake_0,5_can_7,0%_bora bora_san",0.5,can,SHAKE,САН,діюче скю
+"shake_0,5_can_9,0%_sex on the beach_san","shake_0,5_can_7,0%_sex on the beach_san",0.5,can,SHAKE,САН,діюче скю
+"shake_0,33_btl_5,7%_daiquiri_san","shake_0,33_btl_7,0%_daiquiri_san",0.33,btl,SHAKE,САН,діюче скю
+"shake_0,33_btl_5,7%_sex on the beach_san","shake_0,33_btl_7,0%_sex on the beach_san",0.33,btl,SHAKE,САН,діюче скю
+"revo_0,5_can_9,0%_cherry_san","revo_0,5_can_8,5%_cherry_san",0.5,can,REVO_Alco_NRG,САН,діюче скю
+"shake_0,33_btl_9,0%_tequila sombrero_san","shake_0,33_btl_7,0%_tequila sombrero_san",0.33,btl,SHAKE,САН,діюче скю
+"apps_50_keg_5,5%_cranberry_san","apps_50_keg_5,5%_cranberry_sdr",50.0,keg,Cидр Apps кеги,САН,"новинка, або ротація"
+"why not_30_keg_5,0%_smokie island_san","beertail_30_keg_5,0%_smokie island_ber",30.0,keg,Пиво Beertail кеги,САН,діюче скю
+"revo_0,5_can_9,0%_original_san","revo_0,5_can_8,5%_original_san",0.5,can,REVO_Alco_NRG,САН,діюче скю
+"revo_0,5_can_8,6%_cherry_san","revo_0,5_can_8,5%_cherry_san",0.5,can,REVO_Alco_NRG,САН,діюче скю
+"shake_0,33_btl_8,6%_tequila sombrero_san","shake_0,33_btl_7,0%_tequila sombrero_san",0.33,btl,SHAKE,САН,діюче скю
+"why not_0,5_btl_5,0%_smokie island_san","why not_0,5_btl_5,0%_smokie island_ber",0.5,btl,Why Not,САН,діюче скю
+"apps_30_keg_5,5%_cranberry_san","apps_30_keg_5,5%_cranberry_sdr",30.0,keg,Cидр Apps кеги,САН,старе скю
+"apps_1_pet_5,5%_original_san","apps_1_pet_5,5%_original_sdr",1.0,pet,Cидр Apps,САН,діюче скю
+"apps_50_keg_8,0%_rossіnі aperіtіvo_san","apps_50_keg_8,0%_rossіnі aperіtіvo_sdr",50.0,keg,Cидр Apps міцний кеги,САН,"новинка, або ротація"
+"why not_50_keg_5,0%_smokie island_san","beertail_50_keg_5,0%_smokie island_ber",50.0,keg,Пиво Beertail кеги,САН,діюче скю
+"kings bridge_0,5_can_5,5%_tonic_san","kings bridge_0,45_can_7,0%_tonic_san",0.45,can,KING'S BRIDGE,САН,діюче скю
+"friday_50_keg_5,0%_sex on the beach_san","beertail_50_keg_5,0%_sex on the beach_ber",50.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"friday_30_keg_5,0%_tonic_san","beertail_30_keg_5,0%_tonic_ber",30.0,keg,Пиво Beertail кеги,САН,діюче скю
+"shake_0,33_btl_4,5%_daiquiri_san","shake_0,33_btl_7,0%_daiquiri_san",0.33,btl,SHAKE,САН,діюче скю
+"shake_0,5_can_4,5%_sex on the beach_san","shake_0,5_can_7,0%_sex on the beach_san",0.5,can,SHAKE,САН,діюче скю
+"revo_0,5_can_6,0%_original_san","revo_0,5_can_8,5%_original_san",0.5,can,REVO_Alco_NRG,САН,діюче скю
+"revo_0,5_can_6,0%_cherry_san","revo_0,5_can_8,5%_cherry_san",0.5,can,REVO_Alco_NRG,САН,діюче скю
+"shake_0,33_btl_4,5%_tequila sombrero_san","shake_0,33_btl_7,0%_tequila sombrero_san",0.33,btl,SHAKE,САН,діюче скю
+"kings bridge_0,5_can_8,6%_tonic_san","kings bridge_0,45_can_7,0%_tonic_san",0.45,can,KING'S BRIDGE,САН,діюче скю
+"apps_50_keg_5,5%_frizzante bellini_san","apps_50_keg_5,5%_frizzante bellini_sdr",50.0,keg,Cидр Apps кеги,САН,"новинка, або ротація"
+"apps_30_keg_5,5%_frizzante bellini_san","apps_30_keg_5,5%_frizzante bellini_sdr",30.0,keg,Cидр Apps кеги,САН,"новинка, або ротація"
+"shake_0,33_btl_9,0%_sex on the beach_san","shake_0,33_btl_7,0%_sex on the beach_san",0.33,btl,SHAKE,САН,діюче скю
+"shake_0,33_btl_5,9%_tequila sombrero_san","shake_0,33_btl_7,0%_tequila sombrero_san",0.33,btl,SHAKE,САН,діюче скю
+"revo_0,5_can_8,6%_original_san","revo_0,5_can_8,5%_original_san",0.5,can,REVO_Alco_NRG,САН,діюче скю
+"shake_0,5_can_8,6%_bora bora_san","shake_0,5_can_7,0%_bora bora_san",0.5,can,SHAKE,САН,діюче скю
+"apps_30_keg_8,0%_rossіnі aperіtіvo_san","apps_30_keg_8,0%_rossіnі aperіtіvo_sdr",30.0,keg,Cидр Apps міцний кеги,САН,"новинка, або ротація"
+"beertail_30_keg_4,8%_amber_san","beertail_30_keg_4,8%_amber_ber",30.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"beertail_50_keg_4,8%_amber_san","beertail_50_keg_4,8%_amber_ber",50.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"apps_50_keg_5,5%_original_san","apps_50_keg_5,5%_original_sdr",50.0,keg,Cидр Apps кеги,САН,діюче скю
+"apps_0,5_btl_5,5%_original_san","apps_0,5_btl_5,5%_original_sdr",0.5,btl,Cидр Apps,САН,діюче скю
+"shake_0,33_btl_4,5%_bora bora_san","shake_0,33_btl_7,0%_bora bora_san",0.33,btl,SHAKE,САН,діюче скю
+"apps_50_keg_5,5%_cherry_san","apps_50_keg_5,5%_cherry_sdr",50.0,keg,Cидр Apps кеги,САН,діюче скю
+"friday_50_keg_5,0%_tonic_san","beertail_50_keg_5,0%_tonic_ber",50.0,keg,Пиво Beertail кеги,САН,діюче скю
+"kings bridge_0,5_can_8,6%_grapefruit_san","kings bridge_0,45_can_7,0%_grapefruit_san",0.45,can,KING'S BRIDGE,САН,діюче скю
+"apps_30_keg_5,5%_happy morning_san","apps_30_keg_5,5%_happy morning_sdr",30.0,keg,Cидр Apps кеги,САН,"новинка, або ротація"
+"shake_0,33_btl_8,6%_sex on the beach_san","shake_0,33_btl_7,0%_sex on the beach_san",0.33,btl,SHAKE,САН,діюче скю
+"friday_30_keg_5,0%_sex on the beach_san","beertail_30_keg_5,0%_sex on the beach_ber",30.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"why not_50_keg_5,0%_smokie island_ber","beertail_50_keg_5,0%_smokie island_ber",50.0,keg,Пиво Beertail кеги,САН,діюче скю
+"why not_30_keg_5,0%_smokie island_ber","beertail_30_keg_5,0%_smokie island_ber",30.0,keg,Пиво Beertail кеги,САН,діюче скю
+green energy_1_pet_сanabis_nrg,green energy_1_pet_original_nrg,1.0,pet,Green Energy,НРДж,діюче скю
+"why not_0,5_btl_4,8%_carte blanche_ber","why not_0,5_btl_4,8%_wild lemon_ber",0.5,btl,Why Not,САН,діюче скю
+"green energy_0,5_pet_сanabis_nrg","green energy_0,5_pet_original_nrg",0.5,pet,Green Energy,НРДж,діюче скю
+"why not_0,5_can_5,0%_wild lemon_ber","why not_0,5_can_4,8%_wild lemon_ber",0.5,can,Why Not,САН,діюче скю
+"why not_0,5_can_4,8%_smokie island_ber","why not_0,5_can_5,0%_smokie island_ber",0.5,can,Why Not,САН,діюче скю
+"diablo_0,5_can_8,0%_original_ber","diablo_0,5_can_8,0%_extra  alco energy_ber",0.5,can,DIABLO,САН,діюче скю
+"friday_30_keg_5,0%_daiquiri_ber","beertail_30_keg_5,0%_daiquiri_ber",30.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"friday_50_keg_5,0%_daiquiri_ber","beertail_50_keg_5,0%_daiquiri_ber",50.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"friday_30_keg_5,0%_cosmopolitan_ber","beertail_30_keg_5,0%_cosmopolitan_ber",30.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"friday_50_keg_5,0%_cosmopolitan_ber","beertail_50_keg_5,0%_cosmopolitan_ber",50.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"friday_50_keg_5,0%_peach_san","beertail_50_keg_5,0%_peach_ber",50.0,keg,Пиво Beertail кеги,САН,діюче скю
+"revo_0,5_can_8,5%_limited offer_san","revo_0,5_can_8,5%_limited_san",0.5,can,REVO_Alco_NRG,САН,ротація
+"friday_30_keg_5,0%_peach_ber","beertail_30_keg_5,0%_cheeky peach_ber",30.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"friday_50_keg_5,0%_peach_ber","beertail_50_keg_5,0%_peach_ber",50.0,keg,Пиво Beertail кеги,САН,діюче скю
+"why not_0,5_btl_5,0%_wild lemon_ber","why not_0,5_btl_4,8%_wild lemon_ber",0.5,btl,Why Not,САН,діюче скю
+"apps_30_keg_5,5%_fragaria_san","apps_30_keg_5,5%_fragaria_sdr",30.0,keg,Cидр Apps кеги,САН,"новинка, або ротація"
+"apps_50_keg_5,5%_fragaria_san","apps_50_keg_5,5%_fragaria_sdr",50.0,keg,Cидр Apps кеги,САН,"новинка, або ротація"
+"why not_0,5_can_5,0%_wild lemon_san","why not_0,5_can_4,8%_wild lemon_ber",0.5,can,Why Not,САН,діюче скю
+"diablo_0,5_can_8,0%_original_san","diablo_0,5_can_8,0%_extra  alco energy_ber",0.5,can,DIABLO,САН,діюче скю
+"why not_0,5_can_5,0%_smokie island_san","why not_0,5_can_5,0%_smokie island_ber",0.5,can,Why Not,САН,діюче скю
+"diablo_0,5_can_8,0%_black alco energy_san","diablo_0,5_can_8,0%_black alco energy_ber",0.5,can,DIABLO,САН,діюче скю
+"friday_30_keg_5,0%_vanila&chocolate_san","beertail_30_keg_5,0%_vanila&chocolate_ber",,,,,
+"friday_50_keg_5,0%_vanila&chocolate_san","beertail_50_keg_5,0%_vanila&chocolate_ber",50.0,keg,Пиво Beertail кеги,САН,діюче скю
+"friday_30_keg_5,0%_rum&cherry_san","beertail_30_keg_5,0%_rum&cherry_ber",30.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"friday_50_keg_5,0%_rum&cherry_san","beertail_50_keg_5,0%_rum&cherry_ber",50.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"friday_50_keg_5,0%_lemon tart_san","beertail_50_keg_5,0%_lemon tart_ber",50.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"friday_50_keg_5,0%_mint&watermelon_san","beertail_50_keg_5,0%_mint watermelon_ber",50.0,keg,Пиво Beertail кеги,САН,діюче скю
+"friday_50_keg_5,0%_blueberry glade_san","beertail_50_keg_5,0%_blueberry glade_ber",50.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"friday_50_keg_5,0%_blueberry muffin_san","beertail_50_keg_5,0%_blueberry muffin_ber",50.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"apps_0,5_btl_5,5%_grapefruit_san","apps_0,5_btl_5,5%_grapefruit_sdr",0.5,btl,Cидр Apps,САН,діюче скю
+"friday_30_keg_5,0%_mint&watermelon_san","beertail_30_keg_5,0%_mint watermelon_ber",30.0,keg,Пиво Beertail кеги,САН,діюче скю
+"apps_50_keg_5,5%_grapefruit_san","apps_50_keg_5,5%_grapefruit_sdr",50.0,keg,Cидр Apps кеги,САН,"новинка, або ротація"
+"friday_30_keg_5,0%_lemon tart_san","beertail_30_keg_5,0%_lemon tart_ber",30.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"friday_30_keg_5,0%_blueberry glade_san","beertail_30_keg_5,0%_blueberry glade_ber",30.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"friday_30_keg_5,0%_blueberry muffin_san","beertail_30_keg_5,0%_blueberry muffin_ber",30.0,keg,Пиво Beertail кеги,САН,"новинка, або ротація"
+"apps_0,5_can_5,5%_grapefruit_san","apps_0,5_can_5,5%_grapefruit_sdr",0.5,can,Cидр Apps,САН,на вивід
