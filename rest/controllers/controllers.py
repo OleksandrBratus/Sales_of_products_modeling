@@ -41,6 +41,9 @@ def preprocess_data():
 
 
 def train_model(path='prepr_data.csv', out='predictions.csv'):
+    """
+    Models training, postprocessing.
+    """
     df = pd.read_csv(path)
     dt = train_predict(df, output=out)
     return 'Models are trained!'
