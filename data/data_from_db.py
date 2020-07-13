@@ -4,7 +4,7 @@ import pandas as pd
 from config.config import mssql_config
 
 
-def load_orders(to='./../data/orders.csv'):
+def load_orders(to='data/orders.csv'):
     orders = load_df(orders_query)
     renames = {
         "LIMONADIYA_50_keg_Grapefruit_ban": "lymonadiya_50_keg_grapefruit_ban",
@@ -15,7 +15,7 @@ def load_orders(to='./../data/orders.csv'):
     return orders
 
 
-def load_products(to='./../data/products.csv', info='./../data/INFO_SKU.xlsx', repl='./../data/replace_sku.xlsx'):
+def load_products(to='data/products.csv', info='data/INFO_SKU.xlsx', repl='data/replace_sku.xlsx'):
     products = load_df(products_query).drop(["DLM"], axis=1)
     products.SKU = products.SKU.str.lower()
     products.ProductVolume = products.ProductVolume.astype("float")

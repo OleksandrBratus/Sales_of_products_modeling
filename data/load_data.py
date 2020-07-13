@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-def load_datasets(path='./../data/'):
+def load_datasets(path='data/'):
     orders = pd.read_csv(path+"orders.csv")
     products = pd.read_csv(path+"products.csv")
     orders.SKU = orders.SKU.str.lower()
