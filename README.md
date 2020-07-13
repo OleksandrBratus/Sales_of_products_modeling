@@ -1,1 +1,19 @@
-# Sales_of_products_modeling
+### Init project(dev)
+```bash
+
+python -m venv venv
+
+venv/Scripts/activate #windows
+
+pip install -r requirements.txt
+
+```
+### Run project
+```bash
+
+flask db upgrade
+
+flask run
+
+```
+goto http://localhost:5000/
