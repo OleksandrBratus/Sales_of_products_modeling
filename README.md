@@ -11,8 +11,6 @@ pip install -r requirements.txt
 ### Run project
 ```bash
 
-flask db upgrade
-
 flask run
 
 ```
