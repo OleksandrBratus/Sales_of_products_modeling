@@ -16,4 +16,4 @@ flask db upgrade
 flask run
 
 ```
-goto http://localhost:5000/api/
+goto http://localhost:5000/
