@@ -1,12 +1,19 @@
-## Init project(dev)
-  python -m venv venv
+### Init project(dev)
+```bash
 
-  source venv/bin/activate
+python -m venv venv
 
-  pip install -r requirements.txt
-## Run project
-  flask db upgrade
+source venv/bin/activate
 
-  flask run
+pip install -r requirements.txt
 
+```
+### Run project
+```bash
+
+flask db upgrade
+
+flask run
+
+```
 goto http://localhost:5000/api/
